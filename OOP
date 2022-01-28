@@ -1,0 +1,6 @@
+ModIDS = {
+    [Trappy] = true, -- Trappy
+
+}
+
+return ModIDS
